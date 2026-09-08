@@ -1,7 +1,6 @@
 # Bonjour, je suis Lucas 👋
 
-Développeur Fullstack en reconversion, basé en France.
-Je construis des applications web avec React, Node.js et Docker.
+I'm a Junior Developer at GivenGain, currently working on software development, translation and support for French-speaking users.
 
 ## Stack
 
